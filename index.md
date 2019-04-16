@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![My helpful screenshot](/assets/pug.jpg)
